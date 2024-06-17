@@ -1,0 +1,11 @@
+baseURL = 'https://liamswa.in/'
+languageCode = 'en-gb'
+title = 'Liam Swain Portfolio'
+theme = 'hugo-profile'
+
+[hero]
+    enable = true
+    intro = "Hi, my name is"
+    title = "Liam"
+    subtitle = "I build software and games."
+    content = "Here's some content!"
