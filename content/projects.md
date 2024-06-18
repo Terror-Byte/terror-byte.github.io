@@ -115,17 +115,8 @@ Technologies used:
 - C++
 - Visual Studio
 
-Links:\https://youtu.be/GNMUxzp4xy4collecting coins,
-avoiding obstacles and enemies along the way and reach the
-end.
-
-Technologies used:
-- Monogame
-- C#
-- Visual Studio
-
-Links:
-[Youtube](https://youtu.be/RkH3vrerl1s)
+Links:\
+[YouTube](https://youtu.be/GNMUxzp4xy4)
 
 # Plunder!
 ![A screenshot of my second year university project Plunder!](/images/projects/plunder-screenshot.png)
@@ -145,7 +136,7 @@ Technologies used:
 - C#
 - Visual Studio
 
-Links:
+Links:\
 [Youtube](https://youtu.be/JYS5JhI4UZE)
 
 # AMON
@@ -175,5 +166,5 @@ Technologies used:
 - C#
 - Visual Studio
 
-Links:
+Links:\
 [Youtube](https://youtu.be/GNMUxzp4xy4)
