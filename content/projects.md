@@ -3,7 +3,7 @@ title = "Projects"
 slug = "projects" 
 +++
 
-Going to put my portfolio here!
+Here's a portfolio of various projects I've worked on over the past 10 years.
 
 # Unreal Invdrs
 ![alt text]()
