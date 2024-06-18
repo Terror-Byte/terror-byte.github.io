@@ -6,7 +6,7 @@ slug = "projects"
 Here's a portfolio of various projects I've worked on over the past 10 years.
 
 # Unreal Invdrs
-![alt text]()
+![alt text](/images/projects/unreal-invdrs-screenshot.png)
 
 Unreal Invdrs is a clone of my Godot game Invdrs made in
 Unreal Engine 5 as one of my 2022 learning objectives at
@@ -26,7 +26,7 @@ Links:\
 [YouTube](https://youtu.be/mkaScKTSaYo)
 
 # Unity Invdrs
-![alt text]()
+![alt text](/images/projects/unity-invdrs-screenshot.png)
 
 Unity Invdrs is a clone of my Godot game Invdrs made in
 Unity as my 2021 learning objective at Lab42.
