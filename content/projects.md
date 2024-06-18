@@ -6,7 +6,7 @@ slug = "projects"
 Going to put my portfolio here!
 
 # Invdrs
-![A screenshot of my Godot game Invdrs](/static/images/Invdrs%20Cover%20Photo.png)
+![A screenshot of my Godot game Invdrs](/static/images/invdrs-cover-photo.png)
 Invdrs (prounounced "Invaders") is a clone of the classic
 game Space Invaders I made using the Godot game
 engine in early 2021.
@@ -23,5 +23,7 @@ Technologies used:
 Godot, GDScript
 
 Links:
+
 [Itch.io](https://terrorbyte.itch.io/invdrs)
+
 [Youtube](https://youtu.be/1cjx9s29uPo?si=XrBwPj8cd3zW6sM5)
