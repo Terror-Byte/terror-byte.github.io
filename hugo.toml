@@ -1,4 +1,4 @@
-baseURL = "http://liamswa.in"
+baseURL = "https://liamswa.in"
 title = "Liam Swain"
 theme = "hugo-coder"
 languageCode = "en-gb"
