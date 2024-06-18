@@ -24,6 +24,5 @@ Technologies used:
 Godot, GDScript
 
 Links:
-
-[Itch.io](https://terrorbyte.itch.io/invdrs)
+[Itch.io](https://terrorbyte.itch.io/invdrs)\
 [Youtube](https://youtu.be/1cjx9s29uPo?si=XrBwPj8cd3zW6sM5)
