@@ -141,33 +141,3 @@ Technologies used:
 
 Links:\
 [Youtube](https://youtu.be/JYS5JhI4UZE)
-
-# AMON
-![A screenshot of my first year university game jam game AMON](/images/projects/AMON-screenshot.png)
-
-Amazing Midget Over Normandy (AMON) is a simple action game developed with the
-Monogame framework and C# that was made as part of my first ever game jam. The
-game jam took place at my University in the first semester of my first year of uni (late
-2013). The aim of this game jam was to get the new students acquainted with each
-other and to give us experience working on a game in a team.
-The theme of the jam was “Random Game Name Generator”. Each team was given
-three spins of the Video Game Name Generatorand had to choose one of the
-generated names as the title for their game. If they did not like any of the three names
-generated, the team could gamble on a fourth spin which they would have to take.
-'Amazing Midget Over Normandy' is what our team chose from our 3 generated names.
-In AMON the player takes the role of a vertically-challenged paratrooper tasked with
-paratrooping into occupied Normandy during WW2.
-The player has to avoid clouds (which wet the parachute and make the player fall
-faster), missiles shot from the ground and later on planes which fly in from the sides of
-the screen. The player has to survive 60 seconds to win the game. There is a shield
-power-up that the player can collect (if an enemy missile hits an enemy plane) that
-renders them invincible against the effects of clouds and allows them to survive one hit
-from an enemy plane or missile without dying.
-
-Technologies used:
-- Monogame
-- C#
-- Visual Studio
-
-Links:\
-[Youtube](https://youtu.be/GNMUxzp4xy4)
