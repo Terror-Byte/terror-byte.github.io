@@ -32,7 +32,10 @@ Unity Invdrs is a clone of my Godot game Invdrs made in
 Unity as my 2021 learning objective at Lab42.
 My goal with Unity Invdrs was to get my head back into
 Unity and polish my skills so I was ready whenever I next
-needed to use https://youtu.be/GNMUxzp4xy4ame from scratch.
+needed to use it at work. As I’d already made this game in
+Godot, I knew exactly what I needed to implement and
+could focus on the Unity specifics instead of having to
+design the game from scratch.
 
 Technologies used:
 - Unity
@@ -116,7 +119,7 @@ Technologies used:
 - Visual Studio
 
 Links:\
-[YouTube](https://youtu.be/GNMUxzp4xy4)
+[YouTube](https://youtu.be/-1EEayt_w50)
 
 # Plunder!
 ![A screenshot of my second year university project Plunder!](/images/projects/plunder-screenshot.png)
