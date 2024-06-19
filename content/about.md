@@ -7,4 +7,4 @@ author = "Liam Swain"
 +++
 
 I'm Liam and I make games!
-(Insert more about me here)
+More about me coming soon 😉.
