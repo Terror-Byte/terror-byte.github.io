@@ -12,5 +12,5 @@ In my spare time I've been enjoying learning my way around the Godot game engine
 Aside from hobby game development, some of my other interests are:
 - Playing video games (surprising, I know 😉).
 - Playing Guitar.
-- Learning my ways around Linux.
+- Learning my way around Linux.
 - Split Mechanical Keyboards.
