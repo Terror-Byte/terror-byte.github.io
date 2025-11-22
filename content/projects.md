@@ -25,7 +25,7 @@ Links:\
 
 ## Rustodoro
 
-![alt text](/static/images/projects/rustodoro-screenshot.png)
+![alt text](/images/projects/rustodoro-screenshot.png)
 
 Rustodoro is a command-line pomodoro timer application written in Rust.
 
