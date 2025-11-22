@@ -10,6 +10,7 @@ Hi, I'm Liam and I'm a programmer at d3t! I'm a passionate game developer and I 
 In my spare time I've been enjoying learning my way around the Godot game engine to further my hobby game development endeavours, as well as tinkering with Rust to have a robust low-level language in my personal toolbelt.
 
 Aside from hobby game development, some of my other interests are:
+
 - Playing video games (surprising, I know 😉).
 - Playing Guitar.
 - Learning my way around Linux.

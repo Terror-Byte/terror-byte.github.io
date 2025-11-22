@@ -9,10 +9,10 @@ Here's a portfolio of various projects I've worked on over the past 10 years.
 
 ![alt text](/images/projects/godot-3d-tilemap-generator-screenshot.png)
 
-Godot 3D Tilemap Generator is, as its name suggests, a 3D tilemap generator made with the Godot game engine.\
+Godot 3D Tilemap Generator is, as its name suggests, a 3D tilemap generator made with the Godot game engine.
 Users can configure the width and height of the tilemap and generate 3D tilemaps that they can fly around and view.\
-At the time I began this project, I'd been tinkering with Godot for a while but had primarily worked in 2D, so I was looking for a small project to work on that would allow me to push myself and work in 3D for the first time.\
-Also around that time, I'd been looking into Wave Function Collapse, a simple method of procedurally generating levels that seemed like a fun challenge.\
+At the time I began this project, I'd been tinkering with Godot for a while but had primarily worked in 2D, so I was looking for a small project to work on that would allow me to push myself and work in 3D for the first time.
+Also around that time, I'd been looking into Wave Function Collapse, a simple method of procedurally generating levels that seemed like a fun challenge.
 I decided to combine these two desires and make my Godot 3D Tilemap Generator!
 
 Technologies used:
@@ -28,7 +28,8 @@ Links:\
 ![alt text](/static/images/projects/rustodoro-screenshot.png)
 
 Rustodoro is a command-line pomodoro timer application written in Rust.\
-My goal with Rustodoro was to write a simple command-line application that I'd find personally useful, with a small enough scope to be considered "finished" fairly quickly, but with enough room to keep working on it if I felt like it.\
+
+My goal with Rustodoro was to write a simple command-line application that I'd find personally useful, with a small enough scope to be considered "finished" fairly quickly, but with enough room to keep working on it if I felt like it.
 One of my goals was to ensure that Rustodoro stayed lightweight and simple to use - currently there's only 8 commands, allowing the user to start timers and configure the timers to suit their working patterns.\
 
 Rustodoro is used by executing `rustodoro` in a terminal, followed by the desired command.\
