@@ -27,10 +27,10 @@ Links:\
 
 ![alt text](/static/images/projects/rustodoro-screenshot.png)
 
-Rustodoro is a command-line pomodoro timer application written in Rust.\
+Rustodoro is a command-line pomodoro timer application written in Rust.
 
 My goal with Rustodoro was to write a simple command-line application that I'd find personally useful, with a small enough scope to be considered "finished" fairly quickly, but with enough room to keep working on it if I felt like it.
-One of my goals was to ensure that Rustodoro stayed lightweight and simple to use - currently there's only 8 commands, allowing the user to start timers and configure the timers to suit their working patterns.\
+One of my goals was to ensure that Rustodoro stayed lightweight and simple to use - currently there's only 8 commands, allowing the user to start timers and configure the timers to suit their working patterns.
 
 Rustodoro is used by executing `rustodoro` in a terminal, followed by the desired command.\
 The full list can be found on Rustodoro's GitHub page, but here's a few examples:
