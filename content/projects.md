@@ -5,7 +5,48 @@ slug = "projects"
 
 Here's a portfolio of various projects I've worked on over the past 10 years.
 
-# Unreal Invdrs
+## Godot 3D Tilemap Generator
+
+![alt text](/images/projects/godot-3d-tilemap-generator-screenshot.png)
+
+Godot 3D Tilemap Generator is, as its name suggests, a 3D tilemap generator made with the Godot game engine.\
+Users can configure the width and height of the tilemap and generate 3D tilemaps that they can fly around and view.\
+At the time I began this project, I'd been tinkering with Godot for a while but had primarily worked in 2D, so I was looking for a small project to work on that would allow me to push myself and work in 3D for the first time.\
+Also around that time, I'd been looking into Wave Function Collapse, a simple method of procedurally generating levels that seemed like a fun challenge.\
+I decided to combine these two desires and make my Godot 3D Tilemap Generator!
+
+Technologies used:
+
+- Godot
+- GDScript
+
+Links:\
+[GitHub](https://github.com/Terror-Byte/godot-3d-tilemap-generator)
+
+## Rustodoro
+
+![alt text](/static/images/projects/rustodoro-screenshot.png)
+
+Rustodoro is a command-line pomodoro timer application written in Rust.\
+My goal with Rustodoro was to write a simple command-line application that I'd find personally useful, with a small enough scope to be considered "finished" fairly quickly, but with enough room to keep working on it if I felt like it.\
+One of my goals was to ensure that Rustodoro stayed lightweight and simple to use - currently there's only 8 commands, allowing the user to start timers and configure the timers to suit their working patterns.\
+
+Rustodoro is used by executing `rustodoro` in a terminal, followed by the desired command.\
+The full list can be found on Rustodoro's GitHub page, but here's a few examples:
+
+- `rustodoro work`: Start a work timer
+- `rustodoro short-break`: Start a short break
+- `rustodoro set-work-time -m 25`: Set the work timer to 25 minutes
+
+Technologies used:
+
+- Rust
+
+Links:\
+[GitHub](https://github.com/Terror-Byte/rustodoro)
+
+## Unreal Invdrs
+
 ![alt text](/images/projects/unreal-invdrs-screenshot.png)
 
 Unreal Invdrs is a clone of my Godot game Invdrs made in
@@ -19,13 +60,15 @@ implement as I’d done so twice before instead of having to
 design the game from scratch.
 
 Technologies used:
+
 - Unreal Engine 5
 - Blueprints
 
 Links:\
 [YouTube](https://youtu.be/mkaScKTSaYo)
 
-# Unity Invdrs
+## Unity Invdrs
+
 ![alt text](/images/projects/unity-invdrs-screenshot.png)
 
 Unity Invdrs is a clone of my Godot game Invdrs made in
@@ -38,6 +81,7 @@ could focus on the Unity specifics instead of having to
 design the game from scratch.
 
 Technologies used:
+
 - Unity
 - C#
 - Visual Studio
@@ -45,7 +89,8 @@ Technologies used:
 Links:\
 [Itch.io](https://terrorbyte.itch.io/invdrs-unity)
 
-# Invdrs
+## Invdrs
+
 ![A screenshot of my Godot game Invdrs](/images/projects/invdrs-cover-photo.png)
 
 Invdrs (prounounced "Invaders") is a clone of the classic
@@ -61,6 +106,7 @@ mechanics and focus on implementing them instead of
 having to worry about designing a game myself.
 
 Technologies used:
+
 - Godot
 - GDScript
 
@@ -68,7 +114,8 @@ Links:\
 [Itch.io](https://terrorbyte.itch.io/invdrs)\
 [YouTube](https://youtu.be/1cjx9s29uPo?si=XrBwPj8cd3zW6sM5)
 
-# Clerical Error
+## Clerical Error
+
 ![A screenshot of my LD46 Game Jam Game Clerical Error](/images/projects/clerical-error-screenshot.png)
 
 Clerical Error is a game a couple of friends and I made in Unity for the
@@ -86,6 +133,7 @@ music and sound effects for Clerical Error. I made the the music for the
 game with Bosca Ceoil and the sound effects with JFXR.
 
 Technologies used:
+
 - Unity
 - C#
 - Visual Studio
@@ -98,7 +146,8 @@ Links:\
 [Bosca Ceoil](https://boscaceoil.net/)\
 [JFXR](https://jfxr.frozenfractal.com/)
 
-# Dawn
+## Dawn
+
 ![A screenshot of my final year university project Dawn](/images/projects/dawn-screenshot.png)
 
 Dawn is an adventure game made with Unreal Engine as part of
@@ -114,6 +163,7 @@ skin condition which causes them harm when they are in direct
 sunlight.
 
 Technologies used:
+
 - Unreal Engine 4
 - C++
 - Visual Studio
@@ -121,7 +171,8 @@ Technologies used:
 Links:\
 [YouTube](https://youtu.be/-1EEayt_w50)
 
-# Plunder!
+## Plunder
+
 ![A screenshot of my second year university project Plunder!](/images/projects/plunder-screenshot.png)
 
 Plunder! is an adventure RPG made with Unity as part of the
@@ -135,9 +186,11 @@ the coins and weapons they drop and using their gold to upgrade
 their stats - allowing them to acquire more treasure.
 
 Technologies used:
+
 - Unity
 - C#
 - Visual Studio
 
 Links:\
 [Youtube](https://youtu.be/JYS5JhI4UZE)
+
